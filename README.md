@@ -5,9 +5,12 @@ This script navigates recursively server directory to search a specific tag.
 
 IP = Server IP Address
 
-\nVERBOSE = - 0 No Output\n
+VERBOSE = - 0 No Output
+
           - 1 Low Output
+          
           - 2 High Output
+          
 TAGS = Tags to search
 
 There is an error in ftp.nlst() with empty dir. The program goes to loop state. Any solutions?
