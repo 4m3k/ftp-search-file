@@ -5,7 +5,9 @@ This script navigates recursively server directory to search a specific tag.
 
 IP = Server IP Address
 
-VERBOSE = - 0 No Output
+VERBOSE = 
+
+          - 0 No Output
 
           - 1 Low Output
           
