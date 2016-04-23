@@ -4,7 +4,8 @@ A very simple python script with searching function.
 This script navigates recursively server directory to search a specific tag.
 
 IP = Server IP Address
-VERBOSE = - 0 No Output
+
+\nVERBOSE = - 0 No Output\n
           - 1 Low Output
           - 2 High Output
 TAGS = Tags to search
